@@ -1,2 +1,2 @@
 # catchments-similarity
-Repository to compute the catchments similarities using network science methods applied to the physical attributes in CONUS water stations from GAGES II datatset
+Repository to compute the catchments similarities using network science methods applied to physical traits in the continental United States (CONUS) water stations from GAGES II datatset
