@@ -7,9 +7,11 @@ pip install -r requirements.txt
 ```
 # References
 Paper associated with this code:
+
 *Ciulla, F. and Varadharajan, C.: A Network Approach for Multiscale Catchment Classification using Traits, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1675, 2023.*
 
 Data repository containing the code, datasets ans supplementary informations of the paper:
+
 *Ciulla F ; Varadharajan C (2023): Classification of River Catchments in the Contiguous United States: Code, Dataset, Similarity Patterns, and Resulting Classes. iNAIADS, ESS-DIVE repository. Dataset. doi:10.15485/1987555*
 
 # License
